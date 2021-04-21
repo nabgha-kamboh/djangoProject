@@ -157,5 +157,16 @@ Thumbs.db
 # profiling data
 .prof
 .idea
+git config --global user.email "nabghakamboh138@gmail.com"
+  git config --global user.name "nabgha-kamboh"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'NABGHA KAMBOH@DESKTOP-QSM7P7R.(none)')
+
+NABGHA KAMBOH@DESKTOP-QSM7P7R MINGW64 ~/PycharmProjects/djangoProject (master)
+$
+
 
 # End of https://www.toptal.com/developers/gitignore/api/django
